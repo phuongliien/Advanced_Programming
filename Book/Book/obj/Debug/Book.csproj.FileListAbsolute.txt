@@ -1,0 +1,6 @@
+D:\hoctap\Advanced programming\Book\Book\obj\Debug\Book.csprojAssemblyReference.cache
+D:\hoctap\Advanced programming\Book\Book\bin\Debug\Book.exe.config
+D:\hoctap\Advanced programming\Book\Book\bin\Debug\Book.exe
+D:\hoctap\Advanced programming\Book\Book\bin\Debug\Book.pdb
+D:\hoctap\Advanced programming\Book\Book\obj\Debug\Book.exe
+D:\hoctap\Advanced programming\Book\Book\obj\Debug\Book.pdb
